@@ -1,0 +1,21 @@
+.navbar{
+    background-color: aquamarine;
+    height: 50px;
+    color: black;
+    padding: 5px;
+    margin-bottom: 15px;
+ 
+}
+.navbar-menu{
+    background-color: aliceblue;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 15px;
+    min-width: 150px;
+    text-align: center;
+    
+}
